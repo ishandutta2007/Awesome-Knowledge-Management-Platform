@@ -116,6 +116,9 @@ Self-hosted, transparent, and community-driven open-source projects ranked by Gi
 20. **[Gollum](https://github.com/gollum/gollum)** [![Stars](https://img.shields.io/github/stars/gollum/gollum?style=social&color=white)](https://github.com/gollum/gollum/stargazers) 🌟 `1,311 stars`
     * Lightweight Git-powered wiki engine powering original GitHub wikis with Markdown and AsciiDoc rendering. *License: MIT*
 
+21. **[Hyperconsciousness](https://github.com/louis030195/hyperconsciousness)** [![Stars](https://img.shields.io/github/stars/louis030195/hyperconsciousness?style=social&color=white)](https://github.com/louis030195/hyperconsciousness/stargazers) 🌟 `1 star`
+    * Developer-alpha encrypted, append-only knowledge store for humans and agents, with a Rust CLI, MCP server, device sync, and scoped, expiring access grants. *License: MIT*
+
 ---
 
 ## 🛠️ Recommended Architecture Blueprint
